@@ -1,0 +1,24 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700italic);
+* { padding: 0; margin: 0; }
+body {  font-family: 'Lato', sans-serif; text-transform: uppercase; letter-spacing: 1px;}
+ 
+.header {
+    text-align: justify;
+    height: 2em;
+    padding: 2em 5%;
+    background: #2c3e50;
+    color: #fff;
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.nav a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+ 
+
