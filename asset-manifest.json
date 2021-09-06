@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/soccerstat/static/css/main.558e52e7.chunk.css",
+    "main.js": "/soccerstat/static/js/main.c9436aaa.chunk.js",
+    "main.js.map": "/soccerstat/static/js/main.c9436aaa.chunk.js.map",
+    "runtime-main.js": "/soccerstat/static/js/runtime-main.5b1b961c.js",
+    "runtime-main.js.map": "/soccerstat/static/js/runtime-main.5b1b961c.js.map",
+    "static/js/2.dc1a7551.chunk.js": "/soccerstat/static/js/2.dc1a7551.chunk.js",
+    "static/js/2.dc1a7551.chunk.js.map": "/soccerstat/static/js/2.dc1a7551.chunk.js.map",
+    "static/js/3.5082b315.chunk.js": "/soccerstat/static/js/3.5082b315.chunk.js",
+    "static/js/3.5082b315.chunk.js.map": "/soccerstat/static/js/3.5082b315.chunk.js.map",
+    "index.html": "/soccerstat/index.html",
+    "static/css/main.558e52e7.chunk.css.map": "/soccerstat/static/css/main.558e52e7.chunk.css.map",
+    "static/js/2.dc1a7551.chunk.js.LICENSE.txt": "/soccerstat/static/js/2.dc1a7551.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b1b961c.js",
+    "static/js/2.dc1a7551.chunk.js",
+    "static/css/main.558e52e7.chunk.css",
+    "static/js/main.c9436aaa.chunk.js"
+  ]
+}
